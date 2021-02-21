@@ -1,0 +1,4 @@
+com/eventProcessor/web/controller/MessageController.class
+com/eventProcessor/web/Application.class
+com/eventProcessor/config/KafkaProducerConfig.class
+com/eventProcessor/web/request/Message.class
