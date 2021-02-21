@@ -1,4 +1,4 @@
-/Users/rafaelferraro/learning/demo/src/main/java/com/eventProcessor/config/KafkaProducerConfig.java
-/Users/rafaelferraro/learning/demo/src/main/java/com/eventProcessor/web/request/Message.java
-/Users/rafaelferraro/learning/demo/src/main/java/com/eventProcessor/web/controller/MessageController.java
-/Users/rafaelferraro/learning/demo/src/main/java/com/eventProcessor/config/Application.java
+/Users/rafaelferraro/learning/event-processor/src/main/java/com/eventProcessor/web/request/Message.java
+/Users/rafaelferraro/learning/event-processor/src/main/java/com/eventProcessor/config/KafkaProducerConfig.java
+/Users/rafaelferraro/learning/event-processor/src/main/java/com/eventProcessor/web/Application.java
+/Users/rafaelferraro/learning/event-processor/src/main/java/com/eventProcessor/web/controller/MessageController.java
